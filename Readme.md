@@ -1,4 +1,4 @@
-z# Project description
+# Project description
 igorsemedo.com, is the show case as portfolio of Igor Silvino Domingos Semedo.
 
 Will be a place where he will being posting articles about IT area, things about programming, Web Development, DevOps, DevTools, Project Management and more about tech related content.
@@ -33,9 +33,13 @@ Will be a place where he will being posting articles about IT area, things about
 	- cruds management
 	- user
 	- crud management
+	- markdown based blog post creator with aside preview 
 
 # Project structure
 ## Development stack
 - Zed Editor
-- NextJS( as main framework)
-- Laravel(as api frame)
+- Laravel 12.25
+- React 19.0.0(TSX)
+- MySQL
+
+### Project structure
