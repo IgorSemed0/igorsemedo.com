@@ -44,6 +44,7 @@ Will be a place where he will being posting articles about IT area, things about
 
 ## Project Structure
 
+```
 igorsemedo.com/
 ├── app/
 │   ├── Http/
@@ -276,3 +277,4 @@ igorsemedo.com/
 │   │   └── Public/
 │   └── Unit/
 │       └── Models/
+```
